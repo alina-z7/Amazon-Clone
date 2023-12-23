@@ -15,14 +15,15 @@ This is a static clone of Amazon's original website, Amazon.com, implemented usi
 
 This static clone of Amazon.com is the first step into my front-end web development journey. It is composed of only HTML5 and CSS and I plan to include dynamics by applying JavaScript and JavaScript frameworks (like React) that I'm currently learning to use.
 
-![](/Images/Amazon-Pictures-1.png)
+## Deployment
 
-![](/Images/Amazon-Pictures-2.png)
+This project is deployed and hosted on Firebase. You can play the game live [here](https://clone-d46be.web.app).
 
 ## Technologies Used
 
 - HTML5
 - CSS
+- Firebase
 - Live Server
 - Visual Studio Code
 
