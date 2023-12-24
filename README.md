@@ -1,4 +1,4 @@
-# Amazon Static Clone 
+# Amazon Clone 
 
 This is a static clone of Amazon's original website, Amazon.com, implemented using HTML5, CSS, Live Server, and Visual Studio Code for development.
 
